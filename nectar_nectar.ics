@@ -1,0 +1,417 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nectar Festival 2026//Nectar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nectar — Nectar Stage
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:de907cc8-d197-4c75-b197-17777a15ba4d@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260618T190700
+DTEND;TZID=America/Vancouver:20260618T194500
+SUMMARY:Opening Circle
+LOCATION:Nectar Stage
+END:VEVENT
+BEGIN:VEVENT
+UID:c4d720a2-9d60-47de-ae81-95b8646dd290@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260618T194700
+DTEND;TZID=America/Vancouver:20260618T213000
+SUMMARY:Triibü
+LOCATION:Nectar Stage
+DESCRIPTION:Underground dance\n\nTRiiBü draws inspiration from a wide ran
+ ge of rhythms\, cultures\, and sounds shaped by underground dance music f
+ rom around the world. Built around the idea that music can bring differen
+ t people\, energies\, and backgrounds into the same space\, the project f
+ ocuses on creating a feeling of shared movement\, connection\, and flow o
+ n the dance floor. At its core\, TRiiBü is about bringing people into a 
+ shared flow through music and movement.\n\nProfile: https://thenectarfest
+ ival.com/products/triibu
+END:VEVENT
+BEGIN:VEVENT
+UID:1ed3fa68-25ea-4f17-8828-6b2a239a1145@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260618T213000
+DTEND;TZID=America/Vancouver:20260618T230000
+SUMMARY:Sidelines
+LOCATION:Nectar Stage
+DESCRIPTION:UK bass / Dubstep • Kootenays / Salt Spring Island BC\n\nOri
+ ginating from the Kootenays\, SIDELINES is a 26-year-old DJ and producer 
+ shaped by the region's legendary mountains and bush rave culture. Also he
+ avily influenced by UK Sound\, R&B\, Wobbly Dubstep and Fat Basslines. Kn
+ own for high-energy sets that keep dance floors shuffling and skanking ti
+ ll the break of dawn. Currently residing on Salt Spring Island BC\, striv
+ ing to create original tracks and throw down on big sound systems across 
+ the province.\n\nhttps://soundcloud.com/elias-sweringn\nhttps://www.insta
+ gram.com/sidelinesbc/\n\nProfile: https://thenectarfestival.com/products/
+ sidelines
+END:VEVENT
+BEGIN:VEVENT
+UID:711a0210-561c-4209-a8a5-b5b602326749@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260618T230000
+DTEND;TZID=America/Vancouver:20260619T003000
+SUMMARY:Tempeh
+LOCATION:Nectar Stage
+DESCRIPTION:Dubstep / Bass\n\nTempeh is a producer focused on dubstep\, ba
+ ss weight\, and deep atmospheric selections. His sound leans into spaciou
+ s low-end\, rolling rhythms\, and the darker energy of underground sound.
+ \n\nhttps://soundcloud.com/ty_dale\nhttps://www.instagram.com/tempehmusic
+ /\n\nProfile: https://thenectarfestival.com/products/tempeh
+END:VEVENT
+BEGIN:VEVENT
+UID:ef6f1bab-3c18-42cb-b1ea-e07f90f76407@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260619T003000
+DTEND;TZID=America/Vancouver:20260619T020000
+SUMMARY:Dyce
+LOCATION:Nectar Stage
+DESCRIPTION:Garage / Breaks / Jungle / Footwork • Vancouver Island\n\nFr
+ om deep shuddering basslines to rolling 808s and high energy breaks\, DYC
+ E delivers a memorable sonic experience. His live performances span a vas
+ t musical landscape\, from Garage\, Breaks\, and Jungle to Chicago Footwo
+ rk. DYCE delivers hand picked gems from a multitude of underground music 
+ outlets and influences. Generating waves in the Island scene\, his sets a
+ re characterized by precision blends\, intricate selection\, and an energ
+ etic stage presence.\n\nhttps://www.instagram.com/_dyce_/\nhttps://soundc
+ loud.com/frazer-dyson\nhttp://linktr.ee/DYCE.DJ\n\nProfile: https://thene
+ ctarfestival.com/products/dyce
+END:VEVENT
+BEGIN:VEVENT
+UID:e19f4aa8-f0fb-43a7-b774-0bf2878a6417@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260619T210000
+DTEND;TZID=America/Vancouver:20260619T223000
+SUMMARY:Löblová
+LOCATION:Nectar Stage
+DESCRIPTION:UKG / breakbeat / DnB / downtempo / techno\n\nLöblová is ded
+ icated to curating unique and thoughtful sound experiences\, made to full
+ y immerse you in the dance. She doesn’t follow a script—she reads the
+  room and builds from instinct. Moving fluidly through UKG\, breakbeat\, 
+ DnB\, downtempo\, house\, techno\, and trance\, each set is shaped from i
+ nspiration in the moment.\n\nProfile: https://thenectarfestival.com/produ
+ cts/loblova
+END:VEVENT
+BEGIN:VEVENT
+UID:ca34fafa-9bfb-4503-bef8-014ec9506691@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260619T223000
+DTEND;TZID=America/Vancouver:20260620T000000
+SUMMARY:Triikstr
+LOCATION:Nectar Stage
+DESCRIPTION:High-impact / underground • BC\n\nTRiiKSTR is a BC-based DJ 
+ and event producer known for shaping immersive\, high-impact dancefloor e
+ xperiences across underground and festival settings. Rooted in queer\, fe
+ tish\, and rave communities\, their work is driven by energy\, tension\, 
+ and connection\, creating sets that feel intentional\, magnetic\, and har
+ d to step away from.\n\nProfile: https://thenectarfestival.com/products/t
+ riikstr
+END:VEVENT
+BEGIN:VEVENT
+UID:302ea2f0-2ac0-4d6d-a171-1d410aabd8a8@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260620T000000
+DTEND;TZID=America/Vancouver:20260620T013000
+SUMMARY:Audacity
+LOCATION:Nectar Stage
+DESCRIPTION:Tech house / bass house • Vancouver\n\nBased in Vancouver\, 
+ Audacity has been carving out a distinct lane in the tech house and bass 
+ house scene with a curated sound that leans into grindy textures\, deep g
+ rooves\, and dark\, rolling basslines. A regular presence across the West
+  Coast\, Audacity has performed extensively on Vancouver Island.\n\nProfi
+ le: https://thenectarfestival.com/products/audacity
+END:VEVENT
+BEGIN:VEVENT
+UID:a2be9167-0bf8-442f-82ed-89f85151abc9@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260620T013000
+DTEND;TZID=America/Vancouver:20260620T030000
+SUMMARY:Ænniæ
+LOCATION:Nectar Stage
+END:VEVENT
+BEGIN:VEVENT
+UID:84318f2d-34f2-4cf1-928a-4d09377c2dc2@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260620T030000
+DTEND;TZID=America/Vancouver:20260620T043000
+SUMMARY:KiiK
+LOCATION:Nectar Stage
+DESCRIPTION:Dark / hypnotic / psychedelic\n\nDark\, hypnotic\, and relentl
+ ess. KIIK brings heat to the booth and sweat to the dance floor. Her sets
+  are deep\, dark\, and physical - built on rolling basslines\, moody text
+ ures\, and rhythms that lock you in. Blending hypnotic elements and psych
+ edelic sounds\, she knows how to push the energy.\n\nProfile: https://the
+ nectarfestival.com/products/kiik
+END:VEVENT
+BEGIN:VEVENT
+UID:8b992f06-6c9d-4b20-b3c7-496c5fe4c5df@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260620T043000
+DTEND;TZID=America/Vancouver:20260620T060000
+SUMMARY:Dose.
+LOCATION:Nectar Stage
+DESCRIPTION:90s Trance / Hard House / Techno\n\nDose. is the multifaceted 
+ DJ & music project from partners Max & Taylor. With deep selections that 
+ traverse fluidly through genres like 90s Trance\, Hard House\, and Techno
+ \, their artistic vision is rooted in sharing raw expression from the hea
+ rt. Their sets are curated as a free-flowing and intuitive exploration.\n
+ \nProfile: https://thenectarfestival.com/products/dose
+END:VEVENT
+BEGIN:VEVENT
+UID:80b1bc78-8497-4da5-a726-e9e7c98f78cd@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260620T120000
+DTEND;TZID=America/Vancouver:20260620T130000
+SUMMARY:Sensual Intelligence (Maggie Blue O'Hara)
+LOCATION:Nectar Stage
+END:VEVENT
+BEGIN:VEVENT
+UID:ed10e3df-3d11-44c9-a861-5b857c8218c4@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260620T130000
+DTEND;TZID=America/Vancouver:20260620T150000
+SUMMARY:Breathwave Ceremony (Yasha Wecker)
+LOCATION:Nectar Stage
+END:VEVENT
+BEGIN:VEVENT
+UID:eeb923f2-3d3f-482b-a0c5-16d5fb51ff34@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260620T200000
+DTEND;TZID=America/Vancouver:20260620T213000
+SUMMARY:Ciscles
+LOCATION:Nectar Stage
+DESCRIPTION:140 / grime / 2-step / jungle • Vancouver\n\nciscles is a pr
+ oducer\, DJ\, and multi-instrumentalist based in Vancouver\, BC\, and a f
+ ixture of the West Coast’s underground bass scene for the past decade. 
+ His rich musical taste is deeply woven into his eclectic and genre-defyin
+ g sets\, encompassing everything from 140\, grime\, 2-step\, jungle\, R
+ ’n’B and beyond.\n\nProfile: https://thenectarfestival.com/products/c
+ iscles
+END:VEVENT
+BEGIN:VEVENT
+UID:88986b9a-0163-472b-9ffb-6aee6958c0dc@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260620T213000
+DTEND;TZID=America/Vancouver:20260620T230000
+SUMMARY:N1ghtwork
+LOCATION:Nectar Stage
+DESCRIPTION:UK-inspired bass • East Van\n\nNight Work is an East Van DJ/
+ producer crafting wavey UK-inspired bass music rooted in beatmaking and s
+ ampling culture. Drawing on influences from R&B\, rap\, and 140-driven cl
+ ub sounds\, his bass-heavy style — defined by 808 weight\, chopped voca
+ ls\, and melodic fragments — is built for low-lit dance floors.\n\nProf
+ ile: https://thenectarfestival.com/products/night-work
+END:VEVENT
+BEGIN:VEVENT
+UID:1d681b4f-c178-49ca-94a8-921ba6fcaeea@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260620T230000
+DTEND;TZID=America/Vancouver:20260621T003000
+SUMMARY:Destrata
+LOCATION:Nectar Stage
+DESCRIPTION:Genre-fluid underground • Vancouver\n\nVancouver-based DJ an
+ d producer Destrata is never one to be limited by a genre or style. Havin
+ g released a string of EPs on notable underground labels such as Scuffed 
+ Recordings\, !K7\, Spe:C\, and Of Paradise\, he garnered the attention of
+  Mixmag and was listed in their 25 Artists to Watch in 2024 feature.\n\nP
+ rofile: https://thenectarfestival.com/products/destrata
+END:VEVENT
+BEGIN:VEVENT
+UID:0b95e23e-cd08-41cf-b3ac-9b24a60a51a7@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260621T003000
+DTEND;TZID=America/Vancouver:20260621T020000
+SUMMARY:Pigeon Hole
+LOCATION:Nectar Stage
+DESCRIPTION:Bass / Dubstep • Vancouver Island\n\nVeteran Vancouver Islan
+ d\, BC-based producer Pigeon Hole pushes the boundaries of their sound an
+ d sound systems alike. Known for a longstanding catalogue of bass music a
+ nd dubstep\, they experiment with evolving song structures and heavyweigh
+ t sound design\, resulting in a high-energy sound and live show.\n\nProfi
+ le: https://thenectarfestival.com/products/pigeon-hole
+END:VEVENT
+BEGIN:VEVENT
+UID:e0115d96-965f-4250-93a2-92b81422aef4@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260621T020000
+DTEND;TZID=America/Vancouver:20260621T033000
+SUMMARY:Daega Sound
+LOCATION:Nectar Stage
+DESCRIPTION:Dubstep / dub • West Coast\n\nDaega Sound is a Canadian elec
+ tronic music and DJ duo formed by brothers Ben and Josh Searles. Since em
+ erging from the West Coast in 2008\, they’ve carved out an internationa
+ l reputation for their deep\, heavy\, and meticulously crafted dubstep 
+ — a sound rooted in low-end pressure and sonic integrity.\n\nProfile: h
+ ttps://thenectarfestival.com/products/daega-sound
+END:VEVENT
+BEGIN:VEVENT
+UID:56ebad88-c8cd-4d06-8ff5-479c90055561@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260621T033000
+DTEND;TZID=America/Vancouver:20260621T050000
+SUMMARY:Living~Stone
+LOCATION:Nectar Stage
+DESCRIPTION:Deep bass / dub / experimental\n\nHost of the Sub.fm show YESY
+ ES Radio\, Living~Stone is an electronic music project spanning two decad
+ es. Born out of a love of abstract deep bass\, glitchy experimental percu
+ ssion and dub sounds\, Living~Stone (Geoffrey Livingston) has performed i
+ n five countries spanning three continents.\n\nProfile: https://thenectar
+ festival.com/products/living-stone
+END:VEVENT
+BEGIN:VEVENT
+UID:1c952796-bed4-48ea-bace-edba0d0e3e3d@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260621T131100
+DTEND;TZID=America/Vancouver:20260621T143000
+SUMMARY:Solstice Ritual Theatre & Ceremony
+LOCATION:Nectar Stage
+END:VEVENT
+BEGIN:VEVENT
+UID:138b1d90-edf1-4c81-a5d6-e74195fdda3a@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260621T143000
+DTEND;TZID=America/Vancouver:20260621T160000
+SUMMARY:Dubconscious
+LOCATION:Nectar Stage
+DESCRIPTION:Reggae / dub / jungle / soundsystem • Nelson\n\nRaised on am
+ ens\, Reese basslines and ragga chat in Toronto’s vibrant jungle scene\
+ , Dubconscious now calls Nelson home where he continues to weave cohesive
+  sound tapestries coloured by his unique influences and handpicked sounds
+  & styles — generally rooted in reggae / dub / soundsystem culture.\n\n
+ Profile: https://thenectarfestival.com/products/dubconscious
+END:VEVENT
+BEGIN:VEVENT
+UID:90904f0f-478a-4dac-aa1b-ce2597851c9f@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260621T160000
+DTEND;TZID=America/Vancouver:20260621T173000
+SUMMARY:Hostilis
+LOCATION:Nectar Stage
+DESCRIPTION:Dubstep / dub / dub techno • Victoria\n\nComing to us from V
+ ictoria with his Sacred Roots Soundsystem\, Hostilis brings a deep passio
+ n for authentic soundsystem culture and the music crafted specifically fo
+ r these powerful rigs. His sets traverse the rich territories of dubstep\
+ , dub\, and dub techno\, all deeply rooted in the traditions of reggae an
+ d soundsystem culture.\n\nProfile: https://thenectarfestival.com/products
+ /hostilis
+END:VEVENT
+BEGIN:VEVENT
+UID:48304451-65eb-4211-93f0-14f02e2c78b1@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260621T173000
+DTEND;TZID=America/Vancouver:20260621T190000
+SUMMARY:Van Andreas
+LOCATION:Nectar Stage
+END:VEVENT
+BEGIN:VEVENT
+UID:a4428452-5fef-4bd4-a6ea-97c31846e2d3@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260621T190000
+DTEND;TZID=America/Vancouver:20260621T203000
+SUMMARY:Lady K
+LOCATION:Nectar Stage
+DESCRIPTION:Afro / bass house / Amapiano / hip-hop • Comox Valley\n\nLad
+ yK is a veritable musical force in the Comox Valley\, Vancouver Island. S
+ he has been DJing regularly for 15 years\, producing for 7 years\, and pr
+ oducing the Sexy Lady Show for 3 years. Her musical vibe includes Afro an
+ d bass house\, Amapiano\, hip hop\, R&B and more.\n\nProfile: https://the
+ nectarfestival.com/products/ladyk
+END:VEVENT
+BEGIN:VEVENT
+UID:05475d40-7dbd-4a11-854d-cee73ae4a4c1@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260621T203000
+DTEND;TZID=America/Vancouver:20260621T220000
+SUMMARY:Inphini
+LOCATION:Nectar Stage
+DESCRIPTION:Deep frequency / psychedelic\n\nCharting the unseen geometry o
+ f the sonic leading edge. Resonance of a mind folding into the infinite 
+ — a liquid transition between the terrestrial and the void. A slow-bloo
+ ming frequency\, vibrating through the silence of a cosmic forest where l
+ ight becomes sound. Deep-frequency love.\n\nProfile: https://thenectarfes
+ tival.com/products/inphini
+END:VEVENT
+BEGIN:VEVENT
+UID:83427890-adb3-46c8-afb0-82e39b76a773@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260621T220000
+DTEND;TZID=America/Vancouver:20260621T233000
+SUMMARY:Matsya
+LOCATION:Nectar Stage
+DESCRIPTION:All-tempo / eclectic\n\nFor nearly two decades\, Manuel Rochet
+ te aka Matsya has been involved from the ground up with festivals and eve
+ nts. Polymath in nature\, Matsya brings timely selections playing across 
+ all tempos and a wild variance in styles. His sets are unique and tastefu
+ lly unpredictable\, from current dance beats to atmospheric ambient.\n\nP
+ rofile: https://thenectarfestival.com/products/matsya
+END:VEVENT
+BEGIN:VEVENT
+UID:cb7df10d-baba-486a-bd7d-6465a01e8c54@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260621T233000
+DTEND;TZID=America/Vancouver:20260622T010000
+SUMMARY:Neighbour
+LOCATION:Nectar Stage
+DESCRIPTION:\nProfile: https://thenectarfestival.com/products/neighbor
+END:VEVENT
+BEGIN:VEVENT
+UID:835a2dbc-4838-4236-b356-bd2a26396219@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260622T010000
+DTEND;TZID=America/Vancouver:20260622T023000
+SUMMARY:Murge
+LOCATION:Nectar Stage
+DESCRIPTION:Downtempo / bass • Loci Records\n\nA sonic alchemist\, murge
+  weaves the eclectic and the electric to create dancefloor-centric beats 
+ that fill the space and lift the crowd. Unorthodox sounds intertwine to c
+ reate an expansive aural journey filled with fresh\, earthy bass and neot
+ eric instrumentals. He was signed to Emancipator’s label Loci Records i
+ n 2020.\n\nProfile: https://thenectarfestival.com/products/murge
+END:VEVENT
+BEGIN:VEVENT
+UID:ec5b76ad-6bcd-4baa-9a83-e54a41aca46e@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260622T023000
+DTEND;TZID=America/Vancouver:20260622T040000
+SUMMARY:The Silk Road
+LOCATION:Nectar Stage
+DESCRIPTION:Global / world bass • Afghan-Nepalese duo\n\nExplore the wor
+ ld with Yelda and Biplov – an Afghan and Nepalese DJ duo sharing global
+  beats on the dance floor. Together they ignite a vision of global connec
+ tion inspired by the true-life historic Silk Road. Their musical diversit
+ y of light and dark energy combines forces to create the magic of The Sil
+ k Road.\n\nProfile: https://thenectarfestival.com/products/the-silk-road
+END:VEVENT
+BEGIN:VEVENT
+UID:da4d8a95-5858-485b-b391-b1bd4a2adf26@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260622T040000
+DTEND;TZID=America/Vancouver:20260622T050000
+SUMMARY:Atebaki
+LOCATION:Nectar Stage
+DESCRIPTION:Downtempo / leftfield / freeform\n\natebaki brings to the stag
+ e his own creative universe\, weaving sounds inspired by flow states and 
+ melodies found in dreams. With an aim to create an immersive experience f
+ or the listener\, each track unfolds like an origami of emotional states\
+ , blooming into atebaki’s unique fusion of downtempo\, leftfield and fr
+ eeform sound.\n\nProfile: https://thenectarfestival.com/products/atebaki
+END:VEVENT
+END:VCALENDAR

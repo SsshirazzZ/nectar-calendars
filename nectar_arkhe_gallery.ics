@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nectar Festival 2026//Arkhe Gallery//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nectar — Arkhē Gallery
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7a332473-a737-4622-bc1b-d9108f6e096c@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260619T164400
+DTEND;TZID=America/Vancouver:20260619T180000
+SUMMARY:Gallery Opening with Asaya & Gwanzo
+LOCATION:Arkhe Gallery
+DESCRIPTION:Dubby / bassy / psychedelic journey • BC\n\nFrom the West Co
+ ast of British Columbia\, Gwanzo always brings a fresh vibe to the dancef
+ loor. Sexy\, dubby\, bassy — he will make your booty shake and put a sm
+ ile on your face. Inspired by the BC festival scene and psychedelia in ge
+ neral\, his sets are more on the journey side\, bringing you on a trip ac
+ ross many emotions.\n\nProfile: https://thenectarfestival.com/products/gw
+ anzo
+END:VEVENT
+BEGIN:VEVENT
+UID:6d604e95-4435-495e-b275-8c548d60b2c7@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260620T140000
+DTEND;TZID=America/Vancouver:20260620T150000
+SUMMARY:Glyde
+LOCATION:Arkhe Gallery
+END:VEVENT
+BEGIN:VEVENT
+UID:44cc610d-4978-4263-b77e-9f1a2bb79d1f@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260620T150000
+DTEND;TZID=America/Vancouver:20260620T170000
+SUMMARY:Artist Meet & Greet + Panel
+LOCATION:Arkhe Gallery
+END:VEVENT
+BEGIN:VEVENT
+UID:df6c3a97-4c6d-4490-8415-51d4a1629cb5@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260620T170000
+DTEND;TZID=America/Vancouver:20260620T183000
+SUMMARY:MOTR (Mind of the Rabbit)
+LOCATION:Arkhe Gallery
+DESCRIPTION:Analogue synth / sample-based • Salt Spring Island\n\nM o t 
+ R (Mind of the Rabbit) is a long-time Salt Spring Island resident who has
+  been hiding in the woods creating analogue synth and sample-based music 
+ for many years. It has taken a long time to build the studio and collect 
+ all the mystery boxes necessary to make the bits and beats.\n\nProfile: h
+ ttps://thenectarfestival.com/products/m-o-t-r-mind-of-the-rabbit
+END:VEVENT
+BEGIN:VEVENT
+UID:d136bbd1-7f96-431e-b5ce-d74d0e21ea69@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260621T140000
+DTEND;TZID=America/Vancouver:20260621T150000
+SUMMARY:Andromeda's Ocean
+LOCATION:Arkhe Gallery
+DESCRIPTION:Vocal / ethereal • Salt Spring Island\n\nAndromedas Ocean is
+  an emerging Salt Spring artist\, writing and singing music for all starr
+ y sirens and forest fae alike — music that comes from the depths of her
+  heart and soul. Oceanic frequencies dancing upon raw emotional storytell
+ ing\, the kind that comes from deep within love.\n\nProfile: https://then
+ ectarfestival.com/products/andromedas-ocean
+END:VEVENT
+BEGIN:VEVENT
+UID:3c9c3d24-9701-45e2-8d54-f22ff067d837@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260621T150000
+DTEND;TZID=America/Vancouver:20260621T170000
+SUMMARY:Delakit Presents Fairy Tea Party
+LOCATION:Arkhe Gallery
+DESCRIPTION:DJ / vocalist / spoken word\n\nDelakit (pronounced Delicate) i
+ s an artist\, DJ\, and vocalist who brings intention and play to the danc
+ efloor\, weaving spoken word\, storytelling\, and melodic soundscapes int
+ o each set. As her name suggests\, Delakit thrives in times where etherea
+ l sounds can be felt — sunset and sunrise\, when familiar faces are bat
+ hed in golden light.\n\nProfile: https://thenectarfestival.com/products/d
+ elakit
+END:VEVENT
+END:VCALENDAR

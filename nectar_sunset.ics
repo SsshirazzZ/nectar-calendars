@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Nectar Festival 2026//Sunset//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Nectar — Sunset Stage
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:62f2efdc-e9de-4550-b0bd-432d4ec4cef3@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260619T110000
+DTEND;TZID=America/Vancouver:20260619T130000
+SUMMARY:Breathwork & Dance Journey (Hayley Flinn)
+LOCATION:Sunset Stage
+END:VEVENT
+BEGIN:VEVENT
+UID:8c6e7db7-b3b0-4ba6-845c-82af5196fdcb@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260619T130000
+DTEND;TZID=America/Vancouver:20260619T160000
+SUMMARY:The Art of Emptiness / Spirit Embodied Soul Alchemy (Akasha Adama)
+LOCATION:Sunset Stage
+END:VEVENT
+BEGIN:VEVENT
+UID:4d47d949-0009-4a88-a828-3de5b4315df9@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260619T180000
+DTEND;TZID=America/Vancouver:20260619T200000
+SUMMARY:Feelgood
+LOCATION:Sunset Stage
+DESCRIPTION:Rave / house • Toronto\n\nAaron\, aka Feelgood\, grew up in 
+ the Toronto area and is heavily influenced by the rave culture of the lat
+ e 90s and early 00s. He has spent a decade organizing and promoting event
+ s under the brand Release\, and held multiple weekly residencies for year
+ s which helped him develop the ability to play to the crowd.\n\nProfile: 
+ https://thenectarfestival.com/products/feelgood
+END:VEVENT
+BEGIN:VEVENT
+UID:7cd2e075-68cb-4d44-a0ed-15b7a7cc0e43@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260619T200000
+DTEND;TZID=America/Vancouver:20260619T213000
+SUMMARY:Bedtime Snack
+LOCATION:Sunset Stage
+DESCRIPTION:DnB / Dubstep • Indigenous NW Coast\n\nJayden\, also known a
+ s bedtime snack\, is an Indigenous artist from the Kwakwaka’wakw ~ Wuik
+ inuxv ~ Tla’amin nations\, deeply rooted in the Northwest Coast of so-c
+ alled British Columbia. Whether it’s drum and bass at sunrise or dubste
+ p at sundown\, Jayden has a capacity to capture a feeling and share it wi
+ th the dancefloor.\n\nProfile: https://thenectarfestival.com/products/bed
+ time-snack
+END:VEVENT
+BEGIN:VEVENT
+UID:6ccb1cd0-effe-4ed5-bad3-4baf1fb62a9d@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260620T180000
+DTEND;TZID=America/Vancouver:20260620T213000
+SUMMARY:Ephemeral Objects & IHA
+LOCATION:Sunset Stage
+DESCRIPTION:Dub / leftfield / experimental\n\nephemeral objects moves betw
+ een ethereal\, dubwise atmospheres\, textural grooves\, and ambient intro
+ spection\, with an affinity for deep\, hypnotic\, and experimental sounds
+ . Her DJ sets are both meditative and kinetic\, drawing from labels and p
+ roducers operating at the fringes of techno\, leftfield bass\, psychedeli
+ a\, and downtempo.\n\nProfile: https://thenectarfestival.com/products/eph
+ emeral-objects\n\n— — —\n\nDub / techno / experimental • Vancouve
+ r\n\nHailing from the rich musical fabric of Vancouver\, IHA is a produce
+ r\, DJ\, sound artist\, and curator behind Naga\, a multimedia label and 
+ event platform. Rooted in memory\, dreams\, and shifting perception\, the
+ ir sets carry a curious\, instinctive energy — ranging from dubby atmos
+ pheres to playful techno and forward-thinking sounds.\n\nProfile: https:/
+ /thenectarfestival.com/products/iha
+END:VEVENT
+BEGIN:VEVENT
+UID:5106b8d9-abbb-4622-9b2d-5d51067f5de0@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260621T180000
+DTEND;TZID=America/Vancouver:20260621T190000
+SUMMARY:Coco
+LOCATION:Sunset Stage
+DESCRIPTION:Rap / R&B / eclectic • Salt Spring Island\n\nCoco is a multi
+ disciplinary artist from Salt Spring Island with a gift for curating unfo
+ rgettable vibes. A DJ\, tattoo artist\, drum maker\, hypnotherapist\, and
+  women’s empowerment coach\, she brings depth\, creativity\, and magnet
+ ic energy to everything she touches. She plays a spectrum of music includ
+ ing rap\, femme rap\, and R&B.\n\nProfile: https://thenectarfestival.com/
+ products/coco
+END:VEVENT
+BEGIN:VEVENT
+UID:d2e412f6-0e9e-4d34-85d0-e2f31fbacd3d@nectar2026
+DTSTAMP:20260615T233644Z
+DTSTART;TZID=America/Vancouver:20260621T190000
+DTEND;TZID=America/Vancouver:20260621T213000
+SUMMARY:Ray Black & Michael Red
+LOCATION:Sunset Stage
+DESCRIPTION:Future Beats / Wave / Dub • Vancouver\n\nVancouver-based art
+ ist Ray Black is an innovative DJ/Vocalist whose work is transforming the
+  face of electronic music. Ray takes inspiration from artists within Futu
+ re Beats\, Wave\, and Dub\; the result is an ethereal yet hard-hitting so
+ und uniquely his own\, taking listeners on a journey at the forefront of 
+ the genre.\n\nProfile: https://thenectarfestival.com/products/ray-black\n
+ \n— — —\n\nProducer / curator • Vancouver (Low Indigo)\n\nMichael
+  Red is a Vancouver-based music producer\, film composer\, collaborator\,
+  performer and DJ with always a few handfuls of projects on the go. An ac
+ tive curator and event producer\, he works with the local underground mus
+ ic and creative community in a number of ways\, and is recognized as play
+ ing a critical role in the scene. He curates Nectar’s Sunset Stage.\n\n
+ Profile: https://thenectarfestival.com/products/michael-red
+END:VEVENT
+END:VCALENDAR
