@@ -1,31 +1,27 @@
 # Nectar Festival 2026 — Stage Calendars
 
-Subscribable calendars for [Nectar Festival 2026](https://thenectarfestival.com) (Salt Spring Island, BC · June 18–22, 2026), split by stage so each can be colored separately. Each event description includes the artist's genre, bio, and a link to their festival profile.
+The full [Nectar Festival 2026](https://thenectarfestival.com) lineup as subscribable calendar feeds — so the schedule lives right inside your own calendar app instead of a PDF or a webpage you have to keep checking.
 
-## Subscribe (auto-syncing)
+> ⚠️ **Unofficial.** I'm just an attendee, not a festival organizer. This is a personal, fan-made convenience — not an official Nectar Festival service. Always treat [thenectarfestival.com](https://thenectarfestival.com) as the authoritative source for the schedule.
 
-Replace `USERNAME` with the GitHub account hosting this repo. In Google Calendar: **Add calendar → From URL**, paste a link below. (For Apple Calendar, swap `https://` for `webcal://`.)
+Nectar Festival 2026 runs **June 18–22, 2026** on Salt Spring Island, BC. The program is split into **one calendar per stage** so you can colour-code them.
+
+### What's in them
+
+- Every set, talk, and ceremony as a properly-timed calendar event (82 in total across the five stages).
+- Each event carries the artist's **genre, a short bio, and a link to their festival profile** right in the description.
+
+## Subscribe
+
+Pick your app, then add each stage you want using its URL below.
+
+- **Google Calendar** — **＋ Add calendar → From URL**, paste the URL, click **Add calendar**.
+- **Apple Calendar** — **File → New Calendar Subscription**, paste the URL. (On iPhone: **Settings → Calendar → Accounts → Add Account → Other → Add Subscribed Calendar**.)
 
 | Stage | Subscribe URL | Suggested colour |
 |---|---|---|
-| Solstice Stage | `https://raw.githubusercontent.com/USERNAME/nectar-calendars/main/nectar_solstice.ics` | Blueberry (deep blue) |
-| Nectar Stage | `https://raw.githubusercontent.com/USERNAME/nectar-calendars/main/nectar_nectar.ics` | Banana (gold) |
-| Sunset Stage | `https://raw.githubusercontent.com/USERNAME/nectar-calendars/main/nectar_sunset.ics` | Tangerine (orange) |
-| Tea Temple | `https://raw.githubusercontent.com/USERNAME/nectar-calendars/main/nectar_tea_temple.ics` | Avocado (yellow-green) |
-| Arkhē Gallery | `https://raw.githubusercontent.com/USERNAME/nectar-calendars/main/nectar_arkhe_gallery.ics` | Grape (purple) |
-
-**Note on sync delay:** Google refreshes subscribed URL calendars roughly every 8–24 hours (Google controls this; it can't be sped up). For instant results, download the `.ics` files and use **Import** instead of subscribing.
-
-## Import instead (instant, no sync)
-
-Settings → Import & Export → Import → choose a file → pick the destination calendar. Create one calendar per stage first if you want per-stage colours.
-
-## Event counts
-
-Solstice 30 · Nectar 30 · Sunset 7 · Tea Temple 9 · Arkhē 6 · **Total 82**
-
-## Notes
-
-- Times are America/Vancouver (Pacific). Late-night sets correctly roll onto the following calendar date.
-- Two Sunset slots are billed as tag-team sets and kept as single events with both artists' bios: *Ephemeral Objects & IHA* (Sat) and *Ray Black & Michael Red* (Sun).
-- A few non-music items (opening/closing circles, wellness workshops, gallery talks) have no bio and appear as plain events.
+| Solstice Stage | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_solstice.ics` | Blueberry (deep blue) |
+| Nectar Stage | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_nectar.ics` | Banana (gold) |
+| Sunset Stage | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_sunset.ics` | Tangerine (orange) |
+| Tea Temple | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_tea_temple.ics` | Avocado (yellow-green) |
+| Arkhē Gallery | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_arkhe_gallery.ics` | Grape (purple) |
