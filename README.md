@@ -10,8 +10,8 @@ Nectar Festival 2026 runs **June 18–22, 2026** on Salt Spring Island, BC. The 
 
 - Every set, talk, and ceremony as a properly-timed calendar event (82 in total across the five stages).
 - Each event description packs in the artist's **genre, a short bio, their festival profile, and links to their music** (SoundCloud, Instagram, and the like).
-- Torn between two stages on the night? Tap an artist's music link and **hear what they sound like on the spot** — so you can decide whose set to catch in real time, right where you're standing.
-- Because every set is a real calendar event, you can set **reminders/notifications** on your favourites — so you never miss an artist you came to see.
+- Tap an artist's music link to hear them in the moment and decide which set to catch in real time.
+- Set reminders on the events you don't want to miss.
 
 ### What it looks like
 
