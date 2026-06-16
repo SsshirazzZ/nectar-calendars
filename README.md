@@ -1,6 +1,6 @@
 # Nectar Festival 2026 — Stage Calendars
 
-The full [Nectar Festival 2026](https://thenectarfestival.com) lineup as subscribable calendar feeds — so the schedule lives right inside your own calendar app instead of a PDF or a webpage you have to keep checking.
+The full [Nectar Festival 2026](https://thenectarfestival.com) lineup as subscribable calendar feeds — so the schedule lives right inside your own calendar app.
 
 > ⚠️ **Unofficial.** I'm just an attendee, not a festival organizer. This is a personal, fan-made convenience — not an official Nectar Festival service. Always treat [thenectarfestival.com](https://thenectarfestival.com) as the authoritative source for the schedule.
 
