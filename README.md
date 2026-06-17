@@ -26,15 +26,38 @@ Nectar Festival 2026 runs **June 18–22, 2026** on Salt Spring Island, BC. The 
 
 ## Subscribe
 
-Pick your app, then add each stage you want using its URL below.
+> 📅 Accurate as of the **morning of June 16, 2026**.
 
-- **Google Calendar** — **＋ Add calendar → From URL**, paste the URL, click **Add calendar**.
-- **Apple Calendar** — **File → New Calendar Subscription**, paste the URL. (On iPhone: **Settings → Calendar → Accounts → Add Account → Other → Add Subscribed Calendar**.)
+Each stage is a separate calendar you add once and colour however you like. Add the stages you want using their URLs below, then follow your app's steps.
 
-| Stage | Subscribe URL | Suggested colour |
+| Stage | Stage URL | Suggested colour |
 |---|---|---|
 | Solstice Stage | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_solstice.ics` | Blueberry (deep blue) |
 | Nectar Stage | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_nectar.ics` | Banana (gold) |
 | Sunset Stage | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_sunset.ics` | Tangerine (orange) |
 | Tea Temple | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_tea_temple.ics` | Avocado (yellow-green) |
 | Arkhē Gallery | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_arkhe_gallery.ics` | Grape (purple) |
+
+### Google Calendar
+
+A calendar can only be added by URL on a computer; on a phone or tablet you then switch it on. Two steps:
+
+**1. Add it on a computer** — from Google's ["Use a link to add a public calendar"](https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DDesktop):
+
+1. On your computer, open Google Calendar.
+2. On the left, next to "Other calendars," click **Add other calendars** ▸ **From URL**.
+3. Enter the URL of the published calendar (a stage URL from the table above).
+4. Click **Add calendar**. The calendar displays on the left, under "Other calendars."
+
+**2. Show it on your phone** — from Google's "Show or hide a calendar that you subscribe to" ([Android](https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DAndroid) / [iPhone & iPad](https://support.google.com/calendar/answer/37100?hl=en&co=GENIE.Platform%3DiOS)):
+
+1. Open the Google Calendar app.
+2. At the top left, tap **Menu** ☰.
+3. To the left of a calendar, check the box.
+
+> Tip: if you can't find a calendar, check your sync settings.
+
+### Apple Calendar
+
+- **[Mac](https://support.apple.com/guide/calendar/subscribe-to-calendars-icl1022/mac)** — choose **File → New Calendar Subscription**, paste a stage's URL from the table above, click **Subscribe**, then give it a name and colour.
+- **[iPhone & iPad](https://support.apple.com/en-us/102301)** — in the **Calendar** app, tap **Calendars** (bottom), then **Add Calendar → Add Subscription Calendar**. Enter a stage's URL and tap **Subscribe** (labelled **Find** on iOS/iPadOS 26+), then name it, choose a colour, and set the account to **iCloud**.
