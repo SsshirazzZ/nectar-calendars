@@ -9,7 +9,7 @@ Nectar Festival 2026 runs **June 18–22, 2026** on Salt Spring Island, BC. The 
 ### Why it's handy
 
 - Every set, talk, and ceremony as a properly-timed calendar event (82 in total across the five stages).
-- Each event description packs in the artist's **genre, a short bio, their festival profile, and links to their music** (SoundCloud, Instagram, and the like).
+- Each artist's event carries their **full bio, festival profile, and music & social links** (SoundCloud, Spotify, Instagram, and the like) — where the festival listed them.
 - Tap an artist's music link to hear them in the moment and decide which set to catch in real time.
 - Set reminders on the events you don't want to miss.
 
@@ -32,11 +32,11 @@ Each stage is a separate calendar you add once and colour however you like. Add 
 
 | Stage | Stage URL | Suggested colour |
 |---|---|---|
-| Solstice Stage | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_solstice.ics` | Blueberry (deep blue) |
-| Nectar Stage | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_nectar.ics` | Banana (gold) |
-| Sunset Stage | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_sunset.ics` | Tangerine (orange) |
-| Tea Temple | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_tea_temple.ics` | Avocado (yellow-green) |
-| Arkhē Gallery | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_arkhe_gallery.ics` | Grape (purple) |
+| Solstice Stage | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_solstice.ics?v=2` | Blueberry (deep blue) |
+| Nectar Stage | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_nectar.ics?v=2` | Banana (gold) |
+| Sunset Stage | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_sunset.ics?v=2` | Tangerine (orange) |
+| Tea Temple | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_tea_temple.ics?v=2` | Avocado (yellow-green) |
+| Arkhē Gallery | `https://raw.githubusercontent.com/SsshirazzZ/nectar-calendars/main/nectar_arkhe_gallery.ics?v=2` | Grape (purple) |
 
 ### Google Calendar
 

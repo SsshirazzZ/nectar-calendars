@@ -29,15 +29,15 @@ DTSTART;TZID=America/Vancouver:20260619T153300
 DTEND;TZID=America/Vancouver:20260619T170000
 SUMMARY:Sun Rose
 LOCATION:Solstice Stage
-DESCRIPTION:Ecstatic / global dancefloor\n\nSince starting the Sun Rose pr
- oject in 2022\, Samu has been dedicated to bringing ecstatic ritual to th
- e dancefloor and celebrating resilience\, community\, and collaboration o
- n the decks. He has performed at Envision\, Dance Church\, Nectar\, Soar\
- , LIB\, the Castle in France\, Ohm in Berlin and the Soundgarden and Abra
- xas at Burning Man along with countless house parties and ecstatic dances
-  around the globe.\n\nhttps://www.instagram.com/Samusunrose\nhttp://sound
- cloud.com/djsunrose/rythmeduchataeu\n\nProfile: https://thenectarfestival
- .com/products/sun-rose-1
+DESCRIPTION:Since starting the Sun Rose project in 2022\, Samu has been ded
+ icated to bringing ecstatic ritual to the dancefloor and celebrating resil
+ ience\, community\, and collaboration on the decks. He has performed at En
+ vision\, Dance Church\, Nectar\, Soar\, LIB\, the Castle in France\, Ohm i
+ n Berlin and the Soundgarden and Abraxas at Burning Man along with countle
+ ss house parties and ecstatic dances around the globe.\n\nInstagram: https
+ ://www.instagram.com/Samusunrose\nSoundCloud: http://soundcloud.com/djsunr
+ ose/rythmeduchataeu\n\nProfile: https://thenectarfestival.com/products/sun
+ -rose-1
 END:VEVENT
 BEGIN:VEVENT
 UID:ec0807e1-9b14-4e66-96c5-6822ae08e930@nectar2026
@@ -46,17 +46,19 @@ DTSTART;TZID=America/Vancouver:20260619T170000
 DTEND;TZID=America/Vancouver:20260619T183000
 SUMMARY:Lili Rose
 LOCATION:Solstice Stage
-DESCRIPTION:Global / Batida / cumbia / Afro house • West Kootenay BC\n\n
- LiLi Rose is a DJ from the West Kootenay Region\, BC who plays mainly glo
- bal influenced electronic dance music. She plays genres like Batida\, new
-  cumbia\, folktronica\, Latin club\, baile funk\, amapiano\, Afro house\,
-  UK funky and more. A connoisseur of sound who loves to dance\, she has p
- layed stages such as Global Heat and Shambhala Music Festival and DJs ecs
- tatic dance events across British Columbia. Her collection is always grow
- ing and her style continually evolving as she searches out the freshest s
- ounds from around the world.\n\nhttp://soundcloud.com/lili-rose-23\nhttp:
- //instagram.com/lilis_creations_art/\n\nProfile: https://thenectarfestiva
- l.com/products/lili-rose
+DESCRIPTION:LiLi Rose is a DJ from the West Kootenay Region\, BC who plays 
+ mainly global influenced electronic dance music. “I love electronic musi
+ c with global rhythms and traditional instruments\, but I also love music 
+ from the ghettos and underground scenes from around the world. I play genr
+ es like Batida\, new cumbia\, folktronica\, Latin club\, baile funk\, amap
+ iano\, Afro house\, UK funky and more!”\n\nShe is a connoisseur  of sou
+ nd and loves to dance. She has played many stages such as global heat\, Sh
+ ambhala music festival and DJs ecstatic dance events across British Columb
+ ia. Her collection of music is always growing\, and her style is continual
+ ly evolving as she searches out the freshest sounds from around the world.
+ \n\nSoundCloud: http://soundcloud.com/lili-rose-23\nInstagram: http://inst
+ agram.com/lilis_creations_art/\n\nProfile: https://thenectarfestival.com/p
+ roducts/lili-rose
 END:VEVENT
 BEGIN:VEVENT
 UID:9112ec55-8466-4548-83aa-593c4a4c4d24@nectar2026
@@ -65,16 +67,16 @@ DTSTART;TZID=America/Vancouver:20260619T183000
 DTEND;TZID=America/Vancouver:20260619T200000
 SUMMARY:Sijay James
 LOCATION:Solstice Stage
-DESCRIPTION:House / electronic • Nelson BC\n\nSijay James has been DJing
-  since 1996 when he caught the vinyl bug in the earlier days of the Vanco
- uver electronic dance music scene. He has performed at venues around the 
- world and has been a strong part of the west coast festival community for
-  nearly 3 decades. A resident of Nelson BC since 2008\, Sijay has also be
- en a creative force in the graphic design and art direction of numerous f
- estivals\, including a tenure as art director for Shambhala\, playing a l
- arge role in the development of dance music culture behind the scenes.\n\
- nhttps://soundcloud.com/onbeyond23\nhttps://www.instagram.com/onbeyond/\n
- \nProfile: https://thenectarfestival.com/products/sijay-james
+DESCRIPTION:Sijay James has been DJ’ing since 1996 when he caught the vin
+ yl bug in the earlier days of the Vancouver electronic dance music scene. 
+ He has performed at venues around the world and has been a strong part of 
+ the west coast festival community for nearly 3 decades. A resident of Nels
+ on BC since 2008\, Sijay has also been a creative force in the graphic des
+ ign and art direction of numerous festivals\, including a tenure as art di
+ rector for Shambhala\, playing a large role in the development of Dance Mu
+ sic culture behind the scenes.\n\nSoundCloud: https://soundcloud.com/onbey
+ ond23\nInstagram: https://www.instagram.com/onbeyond/\n\nProfile: https://
+ thenectarfestival.com/products/sijay-james
 END:VEVENT
 BEGIN:VEVENT
 UID:d7dff57e-4273-40ac-8400-0b9fc1fa08f3@nectar2026
@@ -83,20 +85,25 @@ DTSTART;TZID=America/Vancouver:20260619T200000
 DTEND;TZID=America/Vancouver:20260619T213000
 SUMMARY:Applecat
 LOCATION:Solstice Stage
-DESCRIPTION:Deep Dubstep / Fairytale Bass / Trap • West Coast Canada\n\n
- AppleCat is an internationally acclaimed DJ\, producer\, and vocalist fro
- m Canada’s West Coast\, known for blending Deep Dubstep\, Fairytale Bas
- s\, Trap\, and various world influences into cinematic\, grimy performanc
- es. Her sets feel less like a DJ set and more like a spell: bass-driven\,
-  emotional\, and rooted in the belief that a revolution without dancing i
- s not a revolution worth having. Onstage she fuses live mashups\, reworks
- \, and ethereal vocals into hypnotic basslines. She has performed across 
- North America\, the UK\, and beyond\, including Burning Man\, Enchanted F
- orest Gathering\, Rifflandia\, Future Forest\, Evolve\, Envision\, and Ta
- ll Tree\, sharing lineups with CloZee\, Truth\, Emancipator\, Tipper\, Th
- e Polish Ambassador\, and The Halluci Nation. She was featured in the glo
- bal documentary Amplify Her (2017) and interviewed in DJ Mag.\n\nProfile:
-  https://thenectarfestival.com/products/applecat
+DESCRIPTION:AppleCat is an internationally acclaimed DJ\, producer\, and vo
+ calist from Canada’s West Coast\, known for blending Deep Dubstep\, Fair
+ ytale Bass\, Trap\, and various world influences into cinematic\, grimy pe
+ rformances. Her sets feel less like a DJ set and more like a spell: bass-d
+ riven\, emotional\, and rooted in the belief that “a revolution without 
+ dancing is not a revolution worth having.”\n\nOnstage\, she fuses live m
+ ashups\, reworks\, and ethereal vocals into hypnotic basslines that move a
+ udiences both physically and emotionally. This dark booty bouncing dubwitc
+ h bends the perception of "genre" exemplifying her unparalleled "je ne sai
+ s quoi.”\n\nShe has performed across North America\, the UK\, and beyond
+ \, including Burning Man\, Enchanted Forest Gathering\, Rifflandia\, Futur
+ e Forest\, Evolve\, Envision\, and Tall Tree\, sharing lineups with CloZee
+ \, Truth\, Emancipator\, Tipper\, The Polish Ambassador\, and The Halluci 
+ Nation.\n\nFeatured in the global documentary Amplify Her (2017) and inter
+ viewed in DJ Mag\, AppleCat continues to evolve as a primal storyteller an
+ d sonic architect.\n\n"Music is a possession that I desire no exorcism fro
+ m. " - AppleCat\n\nLinktree: https://linktr.ee/AppleCat\nInstagram: https:
+ //www.instagram.com/applecatmusic\nFacebook: http://facebook.com/djappleca
+ t\n\nProfile: https://thenectarfestival.com/products/applecat
 END:VEVENT
 BEGIN:VEVENT
 UID:c06a25f5-efdf-4647-a21d-d9eb8e23aa5a@nectar2026
@@ -105,21 +112,29 @@ DTSTART;TZID=America/Vancouver:20260619T213000
 DTEND;TZID=America/Vancouver:20260619T230000
 SUMMARY:Kaya Ko
 LOCATION:Solstice Stage
-DESCRIPTION:Alt-folk / neo-soul / hip-hop / bass • vocalist\n\nKaya Ko i
- s a queer Filipinx vocalist & multi-media artist born on Turtle Island. T
- heir musical style blends alt-folk\, neo-RnB/Soul and HipHop with element
- s of West-coast Bass and EDM. A mix of classical training\, 12 years of s
- treet performance\, 20+ years of stage performances and self-teaching giv
- es Kaya an undeniable fluency. A gifted songwriter since age 10 and violi
- nist since age 5\, Kaya graduated from SAE Institute as an Electronic Mus
- ic Producer and Audio Engineer\, bringing soulful vocals and a rap style 
- reminiscent of influences like Lauryn Hill. A passionate member of the Fi
- lipinx community and advocate for marginalized voices\, Kaya offers a wid
- e spectrum from stripped-down acoustic and live looping to classic hip-ho
- p and RnB performance.\n\nhttps://www.youtube.com/@kaya.ko_music\nhttps:/
- /www.instagram.com/kaya.ko.music/\nhttps://www.tiktok.com/@kaya.ko.music\
- nhttps://open.spotify.com/artist/2QZO5j7QLZMYVbyUeQhTDL\n\nProfile: https
- ://thenectarfestival.com/products/kaya-ko
+DESCRIPTION:Kaya Ko is a queer Filipinx vocalist & multi-media artist born 
+ on Turtle Island. Their musical style blends between alt-folk\, neo-RnB/So
+ ul to HipHop with elements of West-coast Bass and EDM. A mix of classical 
+ training\, 12 years of street performance\, 20+ years of stage performance
+ s and self-teaching gives Kaya's music an undeniable sense of fluency and 
+ experience.\n\nA gifted songwriter since age 10\, violinist since age 5\, 
+ Kaya graduated at SAE Institute\, completing their studies as an Electroni
+ c Music Producer and Audio Engineer.  Bringing soulful vocals and a rap s
+ tyle that is reminiscent of influences such as Lauryn Hill\, Kaya shows ve
+ rsatility and style in all of their skills.\n\nA passionate member of the 
+ Filipinx Community\, Kaya has roots in the street community as well as oth
+ er marginalized groups of people in the diaspora and is a dedicated advoca
+ te for voices of radicalized\, oppressed and overlooked Peoples. Seeking t
+ o walk as a bridge between worlds\, Kaya hopes to bring people together an
+ d Unify Nations with their music.\n\nBorn to entertain with an introspecti
+ ve side\, this artist is deeply rooted and offers a wide spectrum of moods
+ \, frequencies and flavours to the audience. From stripped down acoustic a
+ nd live looping to classic hiphop & rnb performance\, Kaya has a set for a
+ nything.\n\nYouTube: https://www.youtube.com/@kaya.ko_music\nInstagram: ht
+ tps://www.instagram.com/kaya.ko.music/\nTikTok: https://www.tiktok.com/@ka
+ ya.ko.music\nSpotify: https://open.spotify.com/artist/2QZO5j7QLZMYVbyUeQhT
+ DL?si=_8UKttl5SiGGwbxQr-OKOQ\n\nProfile: https://thenectarfestival.com/pro
+ ducts/kaya-ko
 END:VEVENT
 BEGIN:VEVENT
 UID:d3750cb8-ced4-476a-8cb8-2c9fe7a3fb99@nectar2026
@@ -128,21 +143,33 @@ DTSTART;TZID=America/Vancouver:20260619T230000
 DTEND;TZID=America/Vancouver:20260620T003000
 SUMMARY:Casey Club
 LOCATION:Solstice Stage
-DESCRIPTION:Garage / Dubstep / UK bass / DnB\n\nCasey Club is carving out 
- his own lane in the global bass music scene. Drawing from a deep understa
- nding of garage\, dubstep\, UK bass\, and drum & bass\, he delivers a sou
- nd that is unmistakably his own\, with sets packed with unreleased materi
- al that leave crowds asking for IDs. In 2025 he became a mainstay in the 
- Beatport Dubstep Top 5\, finishing the year as the 4th best-selling artis
- t on the platform\, with global support from Skrillex\, GRiZ\, Subtronics
- \, Four Tet\, Fred again..\, and Chase & Status\, and features on Deadbea
- ts\, UKF\, BBC Radio 1\, Rinse FM and SWU FM. Live highlights include a s
- tandout Shambhala debut and a sold-out run of Canadian headline shows\, p
- lus Boomtown and Love Saves The Day in the UK. 2026 brings his debut US/N
- orth American tour and an Australian tour.\n\nhttps://www.instagram.com/c
- aseyclubofficial/\nhttps://www.tiktok.com/@caseyclubofficial\nhttps://ope
- n.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj\n\nProfile: https://thenectar
- festival.com/products/casey-club-and-snuffy
+DESCRIPTION:Casey Club is carving out his own lane in the global bass music
+  scene. Drawing from a deep understanding of garage\, dubstep\, UK bass\, 
+ and drum & bass\, he delivers a sound that is unmistakably his own. His ha
+ llmark sets are packed with unreleased material\, consistently leaving cro
+ wds asking for IDs.\n\nIn 2025\, Casey Club became a mainstay in the Beatp
+ ort Dubstep Top 5\, finishing the year as the 4th best-selling artist on t
+ he platform. His releases amassed millions of streams and earned global su
+ pport from artists spanning scenes and genres\, including Skrillex\, GRiZ\
+ , Subtronics\, Four Tet\, Fred again..\, and Chase & Status. His music has
+  featured across institutions such as Deadbeats\, UKF\, BBC Radio 1\, Rins
+ e FM\, and SWU FM.\n\nLive performances have seen a parallel rise. Highlig
+ hts from 2025 include a standout\n\nShambhala debut - drawing shoulder-to-
+ shoulder crowds at 2pm on Thursday - followed by a sold-out run of Canadi
+ an headline shows. In the UK\, he appeared at major festivals including B
+ oomtown and Love Saves The Day.\n\n2026 will mark another major step forwa
+ rd\, with Casey Club set to embark on his debut US and North American tour
+ \, flowing directly into a packed Australian tour\, alongside further inte
+ rnational dates planned throughout the year. If you don’t know about Cas
+ ey Club yet\, the time to play catch up as he continues to break down ever
+ y barrier put in front of him.\n\nInstagram: https://www.instagram.com/cas
+ eyclubofficial/\nTikTok: https://www.tiktok.com/@caseyclubofficial\nSpotif
+ y: https://open.spotify.com/artist/2bmnpyZiHHOCrU988FwaJj?si=JKrmYbBIRaKoH
+ YMIaMCRYw\nApple Music: https://music.apple.com/ca/artist/casey-club/17325
+ 26802\nWebsite: https://music.amazon.com/artists/B0CW6NRZBZ/casey-club?mar
+ ketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_6laJXCqrajzMvuQbHq8QJ
+ P1dZ\nWebsite: https://www.beatport.com/artist/casey-club/1189100\n\nProfi
+ le: https://thenectarfestival.com/products/casey-club-and-snuffy
 END:VEVENT
 BEGIN:VEVENT
 UID:cbf6202e-4d38-4c80-ab00-8bb556024e59@nectar2026
@@ -151,18 +178,29 @@ DTSTART;TZID=America/Vancouver:20260620T003000
 DTEND;TZID=America/Vancouver:20260620T020000
 SUMMARY:Snuffy
 LOCATION:Solstice Stage
-DESCRIPTION:140 / Bass / Breaks\n\nSnuffy is the solo project of an innova
- tive DJ and producer who has made a significant impact on the electronic 
- music scene with his dynamic sound\, rooted in 140 BPM and breaks. Fusing
-  heavy basslines with vibrant\, dancefloor-ready energy\, his music bridg
- es the underground and mainstream with a blend of grit and groove\, drawi
- ng influence from trailblazers like Bakey\, Visages\, and Skream. With re
- leases on labels like Memory Palace\, Subsidia\, Odyzey\, Qualia\, and Bi
- te This\, and collaborations with EAZYBAKED\, PlayerDave\, JordnMoody and
-  Snowy\, he has a rising presence on the U.S. festival circuit and a repu
- tation for electrifying live performances.\n\nhttps://soundcloud.com/snuf
- fysounds\nhttps://open.spotify.com/artist/08yNyQvMaC3dLtOthzhPaZ\nhttps:/
- /www.instagram.com/snuffy.bass\n\nProfile: https://thenectarfestival.com/
+DESCRIPTION:Snuffy is the solo project of an innovative DJ and producer who
+  has made a significant impact on the electronic music scene with his dyna
+ mic sound\, rooted in 140 BPM and breaks. Fusing heavy basslines with vibr
+ ant\, dancefloor-ready energy\, his music bridges the underground and main
+ stream with a unique blend of grit and groove. Drawing influence from trai
+ lblazers like Bakey\, Visages\, and Skream\, Snuffy crafts tracks that res
+ onate with both the heady atmospherics and high-energy moments that define
+  modern bass music.\n\nSince making his mark with releases on labels like 
+ Memory Palace\, Subsidia\, Odyzey\, Qualia\, and Bite This\, Snuffy has es
+ tablished himself as a forward-thinking artist with a talent for pushing b
+ oundaries. His collaborations with notable producers like EAZYBAKED\, Play
+ erDave\, JordnMoody\, Snowy\, and countless others further showcase his ab
+ ility to blend his sound with a diverse range of styles\, creating fresh a
+ nd exciting music that continues to captivate global audiences.\n\nWith a 
+ rising presence on the U.S. festival circuit\, Snuffy’s electrifying liv
+ e performances further solidify his reputation\, creating a visceral conne
+ ction with fans and making him a staple in the festival scene. As he conti
+ nues to evolve\, Snuffy is dedicated to pushing the limits of bass-driven 
+ electronic music while keeping his roots firmly connected to the dancefloo
+ r.\n\nSoundCloud: https://soundcloud.com/snuffysounds\nSpotify: https://op
+ en.spotify.com/artist/08yNyQvMaC3dLtOthzhPaZ?si=0oibTMvlRy-fLt_jFjB3yQ\nIn
+ stagram: https://www.instagram.com/snuffy.bass?utm_source=ig_web_button_sh
+ are_sheet&igsh=ZDNlZDc0MzIxNw==\n\nProfile: https://thenectarfestival.com/
  products/snuffy
 END:VEVENT
 BEGIN:VEVENT
@@ -172,18 +210,19 @@ DTSTART;TZID=America/Vancouver:20260620T020000
 DTEND;TZID=America/Vancouver:20260620T033000
 SUMMARY:Entelechy
 LOCATION:Solstice Stage
-DESCRIPTION:Multi-genre electronic • West Coast\n\nActive in the West Co
- ast electronic music scene for over two decades\, Entelechy helped found 
- Returning Saturn events and artist collective\, and Ironic Spin sound cam
- p. Versed across many genres and settings\, from intimate living room gat
- herings to large multi-day festivals\, Entelechy plays for both dancers a
- nd listeners\, weaving a background of music theory\, composition\, arran
- gement\, and production with novel exploration of emerging styles\, frequ
- encies\, and harmonies. The term Entelechy describes the force within and
-  around us that guides us to realize our inborn nature and manifest our h
- ighest potential.\n\nhttps://soundcloud.com/entelechy\nhttps://www.instag
- ram.com/dj_entelechy/\nhttps://soundcloud.com/returning-saturn\n\nProfile
- : https://thenectarfestival.com/products/entelechy
+DESCRIPTION:Active in the West Coast electronic music scene for over two de
+ cades\, Entelechy helped found ‘Returning Saturn’ events and artist co
+ llective\, and ‘Ironic Spin’ sound camp. Versed across many genres and
+  settings\, from intimate living room gatherings to large multi-day festiv
+ als\, Entelechy plays for both dancers and listeners. Weaving a background
+  of music theory\, composition\, arrangement\, and production\, with novel
+  exploration of emerging styles\, frequencies\, and harmonies\; creating s
+ tories of becoming through countless sets across the West Coast and beyond
+ . The term "Entelechy" describes the force within and around us that guide
+ s us to realize our inborn nature and manifest our highest potential in th
+ is life.\n\nSoundCloud: https://soundcloud.com/entelechy\nInstagram: https
+ ://www.instagram.com/dj_entelechy/\nSoundCloud: https://soundcloud.com/ret
+ urning-saturn\n\nProfile: https://thenectarfestival.com/products/entelechy
 END:VEVENT
 BEGIN:VEVENT
 UID:b64bcd42-b696-455b-b8ee-f180c412c916@nectar2026
@@ -192,6 +231,15 @@ DTSTART;TZID=America/Vancouver:20260620T033000
 DTEND;TZID=America/Vancouver:20260620T050000
 SUMMARY:Dwam
 LOCATION:Solstice Stage
+DESCRIPTION:DWAM blends dubstep\, UKG\, bass\, and club music into high-ene
+ rgy sets full of rolling grooves\, heavy low end\, and curveball selection
+ s that keep the dancefloor moving. Built for big systems and late nights.\
+ n\nBehind the scenes\, he has co-founded Victoria's Mind Garden helping pr
+ omote shows with a focus on high level production and intentional spaces t
+ o create a community of open artistic expression.\n\nLinktree: http://link
+ tr.ee/dwambeats\nInstagram: https://www.instagram.com/dwam.beats\nSpotify:
+  https://open.spotify.com/artist/4Tnfi7lPUtnTXd50SKsy4A?si=i8_H_Dp8SU-QbFA
+ VNRisNQ\n\nProfile: https://thenectarfestival.com/products/dwam
 END:VEVENT
 BEGIN:VEVENT
 UID:0c0ee29f-16dc-447c-99be-2e3f8c7411de@nectar2026
@@ -200,12 +248,22 @@ DTSTART;TZID=America/Vancouver:20260620T153300
 DTEND;TZID=America/Vancouver:20260620T170000
 SUMMARY:The Moon Bodega
 LOCATION:Solstice Stage
-DESCRIPTION:Eclectic / bass • two decades DJing\n\nZain Burgess\, aka Mo
- on Bodega\, has been DJing for two decades. He saved up earnings from A&W
-  at age 16 to afford a mixer and two turntables\, and has been obsessed e
- ver since. His sets are delicately engineered to activate the lightness a
- nd darkness — “bless your wounds\; that’s how the light gets in.”
- \n\nProfile: https://thenectarfestival.com/products/moon-bodega
+DESCRIPTION:“Delicately engineered to activate the lightness and darkness
+  in the muladhara\, bless your wounds\; that’s how the light gets in.
+ ”\n\nZain Burgess\, aka Moon Bodega\, has been DJ’ing for two decades.
+  He saved up his earnings from A&W at that tender age of 16 to afford a m
+ ixer and two turntables. He's been obsessed and involved in rave culture e
+ ver since.\n\nHe's relentlessly curious about up-and-coming sounds from di
+ fferent areas of the world and combining them with samples and sounds fro
+ m the past. He will take you into the depths of your body and drive you in
+ to a hypnotic\, somatic exploration of your body. Now combining his love o
+ f somatic therapy\, he infuses the two to help move stuck emotions on the 
+ dance-floor. Energy transmutation. The epic flight of sonic  storytelling
+ . He created and is running a monthly series in Victoria for psychedelic a
+ nd hypnotic electronic music\, called Space Temple.\n\nWhen Zain is not in
+ volved in music he works in film production. Cinema is clearly a huge infl
+ uence in his work.\n\nSoundCloud: https://soundcloud.com/zain-burgess\n\nP
+ rofile: https://thenectarfestival.com/products/moon-bodega
 END:VEVENT
 BEGIN:VEVENT
 UID:7f5c7204-3c13-41ad-8fd2-3cefe3293a6d@nectar2026
@@ -214,12 +272,27 @@ DTSTART;TZID=America/Vancouver:20260620T170000
 DTEND;TZID=America/Vancouver:20260620T183000
 SUMMARY:Khan
 LOCATION:Solstice Stage
-DESCRIPTION:Middle Eastern / House / Bass\n\nKhan is a seasoned DJ with de
- cades of experience behind the decks\, known for a unique sonic identity 
- that seamlessly blends Middle Eastern melodies with a diverse spectrum of
-  House and Bass genres — from the pulsating depths of Deep Dubstep to t
- he infectious grooves of Trance\, Progressive\, Funky\, Deep\, and Bass H
- ouse.\n\nProfile: https://thenectarfestival.com/products/khan
+DESCRIPTION:Khan is a seasoned DJ with decades of experience behind the dec
+ ks\, known for his unique sonic identity that seamlessly blends Middle Eas
+ tern melodies with a diverse spectrum of House and Bass genres. From the p
+ ulsating depths of Deep Dubstep to the infectious grooves of Trance\, Prog
+ ressive\, Funky\, Deep\, and Bass House\, his sets are a testament to his 
+ wide-ranging musical expertise.\n\nWhat truly sets Khan apart is the intri
+ cate infusion of organic Middle Eastern elements\, juxtaposed with the raw
+  machine energy of electronic music. This energetic contrast spins a capti
+ vating sound narrative\, moving from profound soulfulness to grooves that 
+ compel dancers to surrender entirely to the rhythm.\n\nInspired by boundar
+ y-pushing artists like Sasha\, John Digweed\, and Widdler\, Khan has grace
+ d popular events such as Shambhala\, Electric Love\, Bass Coast and Astral
+  harvest. He's held residencies with collectives like Beheshto Productions
+ \, Area709 and presently Ironic Spin\, showcasing his ability to ignite da
+ nce floors with diverse and captivating soundscapes.\n\nWith a musical jou
+ rney woven with cultural threads\, Khan invites listeners to lose themselv
+ es in an immersive auditory experience where the organic and the electroni
+ c dance in harmony. His performances have earned him recognition and prais
+ e from fans and industry peers alike.\n\nFacebook:\n\nSoundCloud:\n\nFaceb
+ ook: https://www.facebook.com/khansmixes\nSoundCloud: https://soundcloud.c
+ om/khan\n\nProfile: https://thenectarfestival.com/products/khan
 END:VEVENT
 BEGIN:VEVENT
 UID:06277fc9-b84f-441d-a374-5a75dd1997f0@nectar2026
@@ -228,12 +301,25 @@ DTSTART;TZID=America/Vancouver:20260620T183000
 DTEND;TZID=America/Vancouver:20260620T200000
 SUMMARY:Rah
 LOCATION:Solstice Stage
-DESCRIPTION:Eclectic • South Okanagan / West Coast\n\nRAH aka Noradawn h
- as a nomadic spirit\, having lived many places. Born in Alberta\, she spe
- nt part of her childhood in Florida and Colombia\, South America. She cur
- rently lives in a forest on the edge of the South Okanagan Valley and spl
- its her time between there and the west coast.\n\nProfile: https://thenec
- tarfestival.com/products/rah
+DESCRIPTION:RAH aka Noradawn\, has a nomadic spirit\, having lived many pla
+ ces in her life. She was born in Alberta and spent part of her childhood i
+ n Florida and Colombia\, South America. She currently lives in a forest on
+  the edge of the South Okanagan Valley and spends time between her home th
+ ere and the west coast. As the founder and director of Revel\, a family-fr
+ iendly dance music festival rooted in sound system and rave culture — sh
+ e believes the dancefloor is a place of communion and healing.\n\nShe has 
+ been a DJ for around 27 years — first touching the decks in 1999 and pla
+ ying out for the first time in 2000. With a focus on DnB and Jungle\, she 
+ loves to weave the many musical influences that have shaped her throughout
+  her sets. Her sound ranges from heavy\, deep and electric to ethereal\, s
+ oulful and syncopated — with minimal stripped breaks to cascading rhythm
+ s occasionally layered with melody and vocals. With a classical piano upbr
+ inging and a lifetime of immersion across genres\, her musical knowledge r
+ uns deep\, and with it she weaves these various threads of sound into a ne
+ w story.\n\nSoundCloud: https://soundcloud.com/rahrhythms/rahrevel2516bit\
+ nInstagram: https://www.instagram.com/noradawntribe/\nFacebook: https://ww
+ w.facebook.com/nora.dawn.9/\n\nProfile: https://thenectarfestival.com/prod
+ ucts/rah
 END:VEVENT
 BEGIN:VEVENT
 UID:493e7e5e-0609-4f97-aca9-4232907af799@nectar2026
@@ -242,20 +328,28 @@ DTSTART;TZID=America/Vancouver:20260620T200000
 DTEND;TZID=America/Vancouver:20260620T213000
 SUMMARY:Aninja
 LOCATION:Solstice Stage
-DESCRIPTION:Drum & Bass • Vancouver\n\nRyan Halston AKA ANiNjA is a Drum
-  and Bass Producer/DJ from Vancouver\, Canada. His style focuses on blend
- ing deep minimal rollers with a healthy selection of MCs and vocalists. W
- ith over 20 years of making music under his belt\, his sound selection is
-  sure to get the attention of a crowd. Ryan began DJing in 2013\, origina
- lly as a Hip Hop DJ/producer/MC known as SkyWryter hosting local shows in
-  the Okanagan. In 2020 his style shifted to Drum and Bass and he moved to
-  Vancouver in 2021 where he has been active in the underground scene. Man
- y of ANiNjA's sets are packed with his original music plus exclusive trac
- ks and dubs\, bringing underground UK DnB sounds to Canada. He has also b
- een a sound engineer since 2012\, currently the primary sound tech at Red
-  Room Vancouver for Subculture Saturdays.\n\nhttps://soundcloud.com/aninj
- amusic\nhttps://www.instagram.com/aninja_dj\nhttps://www.youtube.com/@ani
- nja_dj\n\nProfile: https://thenectarfestival.com/products/aninja
+DESCRIPTION:Ryan Halston AKA ANiNjA is a Drum and Bass Producer/DJ from Van
+ couver\, Canada. His style focuses on blending deep minimal rollers with a
+  healthy selection of MCs and vocalists. With over 20 years of making musi
+ c under his belt\, his sound selection is sure to get the attention of a c
+ rowd. Ryan began DJing in 2013\, originally as a Hip Hop DJ/producer/MC kn
+ own as SkyWryter hosting local shows in the Okanagan. He eventually found 
+ a love for funky glitch hop and began playing more electronic shows. After
+  his first summer playing raves he decided it was time to separate his ele
+ ctronic DJing from his Hip Hop persona. Ryan's first official show as ANiN
+ jA was in 2018. In 2020 his style shifted to Drum and Bass and he began a 
+ process of rebuilding his studio\, followed by a move to Vancouver in 2021
+  where he has been active in the underground scene. Fast forward to 2026\,
+  many of ANiNjA's sets are packed full of his original music as well as ex
+ clusive tracks and dubs from some of his favorite artists with the goal of
+  bringing the underground UK DnB sounds to Canada. Among all his musical p
+ ursuits he has also been a sound engineer since 2012 who has worked many o
+ f the best venues and festivals in BC. Currently the primary sound tech at
+  Red Room Vancouver for Subculture Saturdays\, it's safe to say he has a f
+ inger on the pulse of the underground electronic music scene.\n\nSoundClou
+ d: https://soundcloud.com/aninjamusic\nInstagram: https://www.instagram.co
+ m/aninja_dj\nYouTube: https://www.youtube.com/@aninja_dj\n\nProfile: https
+ ://thenectarfestival.com/products/aninja
 END:VEVENT
 BEGIN:VEVENT
 UID:ae687f55-2435-4978-9f03-610be5befbf4@nectar2026
@@ -264,12 +358,31 @@ DTSTART;TZID=America/Vancouver:20260620T213000
 DTEND;TZID=America/Vancouver:20260620T223000
 SUMMARY:Kytami x Gospel of Her
 LOCATION:Solstice Stage
-DESCRIPTION:Live violin / DnB / bass\n\nThere are few acts on the west coa
- st combining live instrumentation\, high energy and gritty bass music wit
- h the ferocity and craft of violinist Kytami. She has made it her mission
-  to create a truly unique\, instantly recognizable sound\, drawing on her
-  love of Drum n Bass\, Hip Hop and more — here joined by Gospel of Her.
- \n\nProfile: https://thenectarfestival.com/products/kytami
+DESCRIPTION:There are few acts on the west coast combining live instrumenta
+ tion\, high energy and gritty bass music with the ferocity and craft than 
+ violinist Kytami. She has made it her mission to create a truly unique sou
+ nd that would be instantly recognizable as her own all the while drawing o
+ n her love of Drum n Bass\, Hip Hop\, Punk and bass heavy dance music. Sin
+ ce the release of her eponymous award winning album in 2013 she has solidi
+ fied her presence in Canada's DnB scene\, standing out in an already satur
+ ated musical landscape. Alongside her long time collaborator Phonik Ops\, 
+ she has co-produced exclusive guest mixes for the DnB Show on BBC Radio 1 
+ and BeatLab Radio and continuously built up her fan base with spectacular 
+ live shows and an ever-increasing catalogue of impactful music.\n\nGospel 
+ of HER is an emerging DJ from Victoria\, B.C. Primarily focusing on Drum a
+ nd Bass\, her deep\, yet energetic sound has been gaining recognition loc
+ ally and worldwide online. Her performances center around building deep co
+ nnection and her style blends atmospheric textures\, dark rollers\, and he
+ avy bass lines. During her performance you will ride the emotional intensi
+ ty into a powerful late night journey.\n\n=========================\n\nWeb
+ site: https://www.kytami.com/\nSpotify: https://open.spotify.com/artist/0L
+ V73kKoy3jOem7j7HvzJt\nYouTube: https://www.youtube.com/TheKytami\nSoundClo
+ ud: https://soundcloud.com/kytami\nInstagram: https://instagram.com/kytami
+ \nFacebook: https://www.facebook.com/Kytami/\nWebsite: https://www.twitch.
+ tv/kytamimusic\nSoundCloud: https://on.soundcloud.com/rVx1uREHtcVOLmCFrs\n
+ Instagram: https://www.instagram.com/gospelofher?utm_source=ig_web_button_
+ share_sheet&igsh=ZDNlZDc0MzIxNw==\nFacebook: https://www.facebook.com/gosp
+ elofher\n\nProfile: https://thenectarfestival.com/products/kytami
 END:VEVENT
 BEGIN:VEVENT
 UID:741c65c4-35b3-4b9b-b178-b78ac7ffc078@nectar2026
@@ -278,12 +391,20 @@ DTSTART;TZID=America/Vancouver:20260620T223000
 DTEND;TZID=America/Vancouver:20260621T000000
 SUMMARY:Mirage
 LOCATION:Solstice Stage
-DESCRIPTION:140 / Breaks / Jungle / DnB\n\nMirage’s musical journey mirr
- ors the illusory nature of sound\, bending and refracting across genres t
- o create an experience that captivates and transcends expectations. Mirag
- e immerses himself in the depths of 140\, Breaks\, Jungle and Drum & Bass
- \, consistently pushing the boundaries.\n\nProfile: https://thenectarfest
- ival.com/products/mirage
+DESCRIPTION:Mirage's musical journey mirrors the illusory nature of sound\,
+  bending and refracting across genres\, creating an experience that captiv
+ ates and transcends expectations in the realm of music production. Mirage 
+ immerses himself in the depths of 140\, Breaks\, Jungle & Drum & Bass\, co
+ nsistently pushing the boundaries.\n\nBeyond the studio\, Mirage is a comm
+ unity-builder in Victoria\, B.C.'s music scene. The architect behind Dubve
+ rsified Culture\, he founded this underground community in 2017 with a mis
+ sion to elevate local West Coast bass artists and forge connections across
+  global Bass music and the local dance music scenes. Host of a monthly sho
+ w on Subtle Radio (UK)\, Mirage's dedication underscores his commitment to
+  navigating the ever-evolving landscape of electronic music.\n\nSoundCloud
+ : https://soundcloud.com/miragemusique\nInstagram: https://www.instagram.c
+ om/miragemusique/\nYouTube: https://www.youtube.com/@Miragemusique\n\nProf
+ ile: https://thenectarfestival.com/products/mirage
 END:VEVENT
 BEGIN:VEVENT
 UID:cf51e41b-2d69-4b54-97f1-d7e0394ea39c@nectar2026
@@ -292,12 +413,24 @@ DTSTART;TZID=America/Vancouver:20260621T000000
 DTEND;TZID=America/Vancouver:20260621T013000
 SUMMARY:Mazeguider
 LOCATION:Solstice Stage
-DESCRIPTION:Genre-fluid / journey sets\n\nThe Mazeguider brings a singular
-  sensibility to the decks\, weaving journeys full of emotional power\, co
- mpelling sounds\, and undeniable grooves. The genre may mutate as freshne
- ss and novelty shift through different sounds and styles\, but it’s all
-  driven by a beacon that beckons us forward on each step.\n\nProfile: htt
- ps://thenectarfestival.com/products/mazeguider
+DESCRIPTION:The Mazeguider brings a singular sensibility to the decks\, wea
+ ving journeys full of emotional power\, compelling sounds\, and undeniable
+  grooves. The genre may mutate as the freshness and novelty shift through 
+ different sounds and styles\, but it's all driven by a call\, a beacon pul
+ sing that beckons us forward on each step of the journey home.\n\nAn OG of
+  West Coast festival culture\, the Mazeguider returns to the decks after r
+ ocking countless dancefloors over his career. He is the producer and creat
+ ive director of Nectar Festival\, a new Summer Solstice festival in the be
+ autiful Gulf Islands of BC. He was one of the co-founders of the legendary
+  Tribal Harmonix collective and long-running Intention Gathering. His TEDx
+  talk on "Transformational festivals" in 2010 led to The Bloom documentary
+  series that filmed 24 festivals worldwide and screened in over 80 locatio
+ ns globally.\n\nListen to new mix (Ethnic Midtempo / Organic House) out no
+ w!\n\nFacebook:\n\nSoundCloud:\n\nBloom Series:\n\nSoundCloud: https://sou
+ ndcloud.com/mazeguider/the-immaculate-day\nFacebook: https://www.facebook.
+ com/p/Mazeguider-100064063570940\nSoundCloud: https://soundcloud.com/mazeg
+ uider\nWebsite: https://thebloom.tv/watch/\n\nProfile: https://thenectarfe
+ stival.com/products/mazeguider
 END:VEVENT
 BEGIN:VEVENT
 UID:4ec55e4a-d161-44d7-a3de-395bfe08d4d3@nectar2026
@@ -306,13 +439,19 @@ DTSTART;TZID=America/Vancouver:20260621T013000
 DTEND;TZID=America/Vancouver:20260621T030000
 SUMMARY:Kilbourne
 LOCATION:Solstice Stage
-DESCRIPTION:Sound system / bass • Anishinaabe\, Sunshine Coast\n\nEmergi
- ng from the coastal rainforests of British Columbia’s Sunshine Coast an
- d Gulf Islands comes Anishinaabe First Nations artist Kilbourne\, founder
-  and curator of Cimmerian Records. Kilbourne channels a sound resonating 
- on deep foundations\, crafting a sonic narrative deeply rooted in sound s
- ystem culture.\n\nProfile: https://thenectarfestival.com/products/kilbour
- ne
+DESCRIPTION:Emerging from the coastal rainforests of British Columbia’s S
+ unshine Coast and Gulf Islands comes Anishinaabe First Nations artist Kilb
+ ourne\, the founder and curator of Cimmerian Records.\n\nKilbourne channel
+ s a sound resonating on deep foundations. He aims to craft a sonic narrati
+ ve deeply rooted in sound system culture. His productions and sets have de
+ veloped an immersive sonic identity shaped by low end frequencies and evol
+ ving emotional depth. His sound reflects a more refined and intentional ap
+ proach to storytelling where each set continues to mature into something b
+ oth dynamic and cohesive and unfolds as a carefully curated journey.\n\nLi
+ nktree: https://linktr.ee/Kilbourne\nInstagram: https://www.instagram.com/
+ jkilbourne?igsh=MWN4b2czcmc5Z29oMg==\nSoundCloud: https://on.soundcloud.co
+ m/WzpOwqkxZLLezUwjsy\nSoundCloud: https://on.soundcloud.com/IP1YtJj30WZs9k
+ RUNd\n\nProfile: https://thenectarfestival.com/products/kilbourne
 END:VEVENT
 BEGIN:VEVENT
 UID:a737d135-4f6c-41a8-af65-99eab709e255@nectar2026
@@ -321,12 +460,12 @@ DTSTART;TZID=America/Vancouver:20260621T030000
 DTEND;TZID=America/Vancouver:20260621T043000
 SUMMARY:Grey Moon
 LOCATION:Solstice Stage
-DESCRIPTION:Genre-fluid • Kootenay\n\nGrey Moon is a Kootenay-based\, ge
- nre-fluid artist known for eclectic yet cohesive sets. With inclusivity a
- s ethos\, there’s a little something for everyone in their journey. He 
- is half of Swoon with Alex Moon — a collaboration of love\, lust and lo
- ss.\n\nhttps://soundcloud.com/greymoonmusic\n\nProfile: https://thenectar
- festival.com/products/grey-moon
+DESCRIPTION:Grey Moon is a Kootenay-based\, genre-fluid artist who's known 
+ for eclectic yet cohesive sets. With inclusivity as ethos\, there's a litt
+ le something for everyone in their journey. He is half of Swoon with Alex
+  Moon. A collaboration of love\, lust and loss.\n\nSoundCloud: https://sou
+ ndcloud.com/greymoonmusic\nInstagram: https://www.instagram.com/greymoonmu
+ sic\n\nProfile: https://thenectarfestival.com/products/grey-moon
 END:VEVENT
 BEGIN:VEVENT
 UID:90434bbe-a2d0-432e-88b2-544b31b3c7c9@nectar2026
@@ -335,11 +474,12 @@ DTSTART;TZID=America/Vancouver:20260621T043000
 DTEND;TZID=America/Vancouver:20260621T060000
 SUMMARY:Sundog
 LOCATION:Solstice Stage
-DESCRIPTION:Turntablist / hip-hop / bass • Victoria\n\nVictoria-based tu
- rntablist and producer. Combining the original styles of old school hip-h
- op with low end bass music makes for dope beats and heavy drops with a li
- ttle taste of nostalgia.\n\nhttps://soundcloud.com/officialsundog\n\nProf
- ile: https://thenectarfestival.com/products/sundog
+DESCRIPTION:Victoria based turntablist and producer. Combining the original
+  styles of old school hip-hop with low end bass music makes for dope beats
+  and heavy drops with a little taste of nostalgia.\n\nInstagram:\n\nSoundC
+ loud:\n\nLinktree:\n\nInstagram: https://www.instagram.com/sundogmusic_/\n
+ SoundCloud: https://soundcloud.com/officialsundog\nLinktree: https://linkt
+ r.ee/sundogmusic\n\nProfile: https://thenectarfestival.com/products/sundog
 END:VEVENT
 BEGIN:VEVENT
 UID:ed6571af-d58e-4b45-a58e-b60717c476dc@nectar2026
@@ -364,13 +504,14 @@ DTSTART;TZID=America/Vancouver:20260621T200000
 DTEND;TZID=America/Vancouver:20260621T213000
 SUMMARY:J2
 LOCATION:Solstice Stage
-DESCRIPTION:Global club / breaks / dancehall • Victoria\n\nJ² is Den an
- d BB Stepz\, a Victoria-based DJ duo rooted in BC’s festival and underg
- round music culture. Their sets are bass-forward and rhythm-driven\, draw
- ing on global club sounds and blending polyrhythmic percussion\, moody me
- lodies\, vocal textures\, and low-end weight. They move through global cl
- ub\, breaks\, dancehall and more.\n\nProfile: https://thenectarfestival.c
- om/products/bb-stepz
+DESCRIPTION:J² is Den and BB Stepz\, a Victoria-based DJ duo rooted in BC
+ ’s festival and underground music culture. Their sets are bass-forward a
+ nd rhythm-driven\, drawing on global club sounds and blending polyrhythmic
+  percussion\, moody melodies\, vocal textures\, and low-end weight. They m
+ ove through global club\, breaks\, dancehall\, and dubstep with a focus on
+  movement\, flow\, and energy.\n\nSoundCloud: https://soundcloud.com/jsqua
+ redmedia\nInstagram: https://www.instagram.com/j2__media\n\nProfile: https
+ ://thenectarfestival.com/products/bb-stepz
 END:VEVENT
 BEGIN:VEVENT
 UID:7740ab13-805b-418e-93a8-4d79d70eb76f@nectar2026
@@ -379,12 +520,22 @@ DTSTART;TZID=America/Vancouver:20260621T213000
 DTEND;TZID=America/Vancouver:20260621T230000
 SUMMARY:J.F.Killah
 LOCATION:Solstice Stage
-DESCRIPTION:Deep / dark bass\n\nWith a love for the underground and an aff
- inity for deep\, dark\, grimy basslines\, J.F.Killah has a passion for en
- gaging dance floors worldwide. She has graced the decks in Canada\, Europ
- e\, New Zealand\, United States\, and Central America\, and performed at 
- festivals including Shambhala\, Bass Coast\, Electric Love\, and Riffland
- ia.\n\nProfile: https://thenectarfestival.com/products/jf-killah
+DESCRIPTION:With a love for the underground and an affinity for deep\, dark
+ \, grimy basslines\, J.F.Killah has a passion for engaging dance floors wo
+ rldwide. She has graced the decks in Canada\, Europe\, New Zealand\, Unite
+ d States\, Central America\, and performed at several festivals including 
+ Shambhala\, Bass Coast\, Electric Love\, Rifflandia\, Wicked Woods & Song 
+ n Surf. As a member of SHAHdjs and DnB Girls\, her junglist roots play a k
+ ey role in her sets but expect a variety of genres depending on the time a
+ nd place. On the decks since 2005\, she has acquired an arsenal of beats a
+ nd is armed to destroy any dance floor. With classical training on the key
+ s and in music theory\, she is able to utilize her understanding of key\, 
+ emotion\, and the power of sound to deliver musically dynamic and powerful
+  performances. Get ready for murdah because the Killah slays it every time
+ !\n\nSoundcloud:\n\nInstagram:\n\nFacebook:\n\nSoundCloud: https://soundcl
+ oud.com/jfkillah\nInstagram: https://www.instagram.com/jfkillah\nFacebook:
+  https://www.facebook.com/jfkillah\n\nProfile: https://thenectarfestival.c
+ om/products/jf-killah
 END:VEVENT
 BEGIN:VEVENT
 UID:1a8c7837-99bd-42a7-8944-9c4a665efb0c@nectar2026
@@ -401,12 +552,30 @@ DTSTART;TZID=America/Vancouver:20260622T003000
 DTEND;TZID=America/Vancouver:20260622T013000
 SUMMARY:Abstrakt Sonance & The Nectar Orchestra
 LOCATION:Solstice Stage
-DESCRIPTION:Live immersive multimedia premiere\n\nSomething truly special 
- is being created for Nectar 2026: the live immersive multimedia debut of 
- Abstrakt Sonance & The Nectar Orchestra\, featuring Kytami\, Sosita\, Rob
-  Christian\, Marshall Rasmussen\, Lady of the Mist\, Dredekop\, Doug Gork
- off\, Liesl Petersen\, and Tomemos.\n\nProfile: https://thenectarfestival
- .com/products/abstrakt-sonance-the-nectar-orchestra
+DESCRIPTION:Something truly special is being created for Nectar 2026. This 
+ year we are honoured to premiere the live immersive multimedia debut of Ab
+ strakt Sonance & The Nectar Orchestra\, featuring Kytami\, Sosita\, Rob Ch
+ ristian\, Marshall Rasmussen\, Lady of the Mist\, Dredekop\, Doug Gorkoff\
+ , Liesl Petersen\, and Tomemos.\n\nGuided by one of our region's brightest
+  musical visionaries\, Abstrakt Sonance serves as conductor — crafting a
+ n expansive yet intimate performance brought to life with live instrumenta
+ tion and vocals\, custom visuals\, and ceremonial choreography to uplift o
+ ur spirits at this critical time on the planet. Together these elements we
+ ave a powerful journey of transformation\, resilience\, and renewal.\n\nJo
+ in us at Nectar Festival to witness this singular moment as it comes alive
+ .\n\nSpotify: https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp?si=c6
+ 9_fb0hSbqKQn2pr5Pbwg\nSoundCloud: http://www.soundcloud.com/abstraktsonanc
+ e\nWebsite: https://abstraktsonance.ca\nInstagram: http://www.instagram.co
+ m/abstraktsonance\nFacebook: http://www.facebook.com/abstraktsonance\nWebs
+ ite: https://www.kytami.com/\nSoundCloud: https://soundcloud.com/kytami\nI
+ nstagram: https://instagram.com/kytami\nInstagram: https://www.instagram.c
+ om/sositaart/\nInstagram: https://www.instagram.com/marshall.rasmussen/\nS
+ potify: https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn?si=nWkSdA8R
+ QYaepKzqzcEm6A\nInstagram: https://www.instagram.com/robnchrisca?utm_sourc
+ e=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==\nSpotify: https://open.s
+ potify.com/artist/5GmTnqtSTio7KExuVLfw4W?si=HuX4fHcNQxmQgXfLvSGajw\n\nProf
+ ile: https://thenectarfestival.com/products/abstrakt-sonance-the-nectar-or
+ chestra
 END:VEVENT
 BEGIN:VEVENT
 UID:7bb8e726-6ac9-4318-bec5-7e53ff286f71@nectar2026
@@ -415,12 +584,35 @@ DTSTART;TZID=America/Vancouver:20260622T013000
 DTEND;TZID=America/Vancouver:20260622T030000
 SUMMARY:Saturna
 LOCATION:Solstice Stage
-DESCRIPTION:Ethereal beats / soundscapes • Sunshine Coast\n\nOriginating
-  from the Sunshine Coast\, British Columbia\, ethereal beatsmith Saturna 
- has an artistic voice unlike any other. By drawing inspiration from a ple
- thora of sources\, Saturna has crafted a stirring and enigmatic productio
- n style that blends meticulously carved soundscapes with irresistible gro
- oves.\n\nProfile: https://thenectarfestival.com/products/saturna
+DESCRIPTION:Originating from the Sunshine Coast\, British Columbia\, ethere
+ al beatsmith Saturna has an artistic voice unlike any other. By drawing in
+ spiration from a plethora of sources\, Saturna has crafted a stirring and 
+ enigmatic production style that blends meticulously carved soundscapes wit
+ h irresistible grooves. Saturna is a sonic story-teller who weaves layers 
+ of deeply emotive melodies and organic rhythms with cinematic flair.\n\nBy
+  tapping into the deeper realms of organic bass\, Saturna strives to lead 
+ his listeners into bold and perplexing new frontiers. As a lifelong musici
+ an\, the Canadian producer is dedicated to stitching together narrative th
+ reads into a tapestry of distorted synths\, warm throbbing basslines and l
+ ush percussive elements. Smooth\, sonorous\, and cleansing\, Saturna’s s
+ ounds oscillate between dreamy ballads and kaleidoscopic voyages.\n\nConne
+ ction is the focus of Saturna’s live performances. By incorporating emot
+ ional touchstones in his music\, Saturna develops strong connective bonds 
+ with his listener. His unique style evokes a sense of looking inward to fi
+ nd the limitless expanse within us all. As the founder of Wildlife Divisio
+ n\, Saturna is leading a collective of daring artists focused on pushing t
+ he boundaries through sound experimentation and live curation.\n\nSaturna 
+ has amassed an impressive collection of transcendent releases\, including 
+ his critically acclaimed\, Departure EP\, which was released earlier this 
+ year. With a slew of new projects forthcoming on his imprint Wildlife Divi
+ sion as well as a slate of live shows and festivals booked throughout Nort
+ h America\, Saturna is primed to establish himself as a force in the elect
+ ronic music landscape.\n\nSpotify: https://open.spotify.com/artist/6Y3GYer
+ mT3jkAuq3A5vLXn?si=iaTUZ2R-QdemoXdHDk5GFA\nInstagram: https://www.instagra
+ m.com/saturnasound?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxN
+ w==\nSoundCloud: https://on.soundcloud.com/vW5bhU5wX2CKSEkTGd\nBandcamp: h
+ ttps://saturnasound.bandcamp.com/album/departure\nWebsite: https://saturna
+ .komi.io\n\nProfile: https://thenectarfestival.com/products/saturna
 END:VEVENT
 BEGIN:VEVENT
 UID:b891dc5a-25fc-4a81-9118-5ec5a1ec8f41@nectar2026
@@ -429,12 +621,20 @@ DTSTART;TZID=America/Vancouver:20260622T030000
 DTEND;TZID=America/Vancouver:20260622T050000
 SUMMARY:Leland River
 LOCATION:Solstice Stage
-DESCRIPTION:Eclectic / festival • North West Coast\n\nA North-Westcoast 
- fixture\, Leland River is a DJ/Producer whose growth as an artist and hum
- an being is deeply tied to the mycelial webs of the BC festival scene. He
-  is trusted by many of his peers and listeners for his diverse array of p
- roductions\, mixes\, and adept sense for playing the right music at the r
- ight time.\n\nProfile: https://thenectarfestival.com/products/leland-river
+DESCRIPTION:A North-Westcoast fixture - Leland River is a DJ/Producer whose
+  growth as an artist and human being is deeply tied to the mycelial webs o
+ f the BC festival scene.   Trusted by many of his peers and listeners 
+ for his diverse array of productions\, mixes\, and adept sense for playing
+  the right music at the right time\; Leland River has been given the contr
+ ols at Bass Coast\, Envision\, and Shambhala for 10 years in a row.   
+  From a love of hypnotizing rhythms and the low-end of dubstep\, garage\, 
+ grime\, breaks\, dancehall\, jungle and techno\; mixed with a disposition 
+ for emotive ambience and a love for R&B - Leland River’s music and DJ se
+ ts fit better inside a vast large venn diagram than a box.\n\nInstagram:\n
+ \nFacebook:\n\nSoundCloud:\n\nInstagram: https://www.instagram.com/leland_
+ river/\nFacebook: https://www.facebook.com/lelandriver.music/\nSoundCloud:
+  https://soundcloud.com/leland_river\n\nProfile: https://thenectarfestival
+ .com/products/leland-river
 END:VEVENT
 BEGIN:VEVENT
 UID:b2c75c0e-5805-4b31-b4e4-510d9ec8449b@nectar2026
@@ -443,12 +643,33 @@ DTSTART;TZID=America/Vancouver:20260622T050000
 DTEND;TZID=America/Vancouver:20260622T063000
 SUMMARY:Melo.Nade
 LOCATION:Solstice Stage
-DESCRIPTION:Hip-hop / crate-digging • Calgary\n\nNavin ‘Melo.Nade’ H
- uq was born and raised in Calgary\, Canada. Growing up with hip-hop cultu
- rists\, he learned the art of digging at an early age\, resulting in an i
- nsatiable addiction for finding hard-to-find gems. As a child he spent ti
- me recording mix tapes off the radio\, TV\, and beyond.\n\nProfile: https
- ://thenectarfestival.com/products/melo-nade
+DESCRIPTION:Navin ‘Melo.Nade’ Huq was born and raised in Calgary\, Cana
+ da. Growing up with hip-hop culturists\, he learned the art of digging at 
+ an early age\, which resulted in an insatiable addiction for finding those
+  hard to find gems. As a child\, he would spend time recording mix tapes (
+ yes\, cassettes) off the radio\, TV\, and his dad’s records\; satisfying
+  his instinctive nature to sequence tracks as well as delve into music tec
+ hnology. Navin acquired his first set of turntables in 2003\, and that’s
+  when Melo.Nade was born. Originally on the hip-hop tip\, he experimented 
+ with mash ups and tempo changes before the age of Serato and digital DJ’
+ ing. Countless hours were spent in the progression of turntablism and fusi
+ ng the worlds of trip hop\, hip-hop\, funk and breaks\, into an eclectic v
+ ibe.\n\nMore recently\, the Melo.Nade sound has evolved to embody the term
+  Heavy Chill - downbeat\, yet heavy hitting (from deep dubstep to lustful 
+ world beats to breaks\, hip-hop\, and R&B). His endeavours in music produc
+ tion are sculpting a fresh sound that fuses classical and worldly instrume
+ nts with electronic bass music. The basis of the vibe is flowing and non-r
+ epetitive.\n\nIn every set\, he strives to take you on a walk through musi
+ c\; not just with his tight mixing\, but also by seamlessly incorporating 
+ edits and layers of purposeful cuts/effects and lush melodies. Melo.Nade
+ ’s imaginative and intelligent persona is expressed through his music by
+  delivering bass-driven grooves while maintaining the melodious merit that
+ ’s often lost in electronic translation. His diverse experience gives hi
+ m the edge to read crowds and adapt. No set is the same as he stays true t
+ o the musical art form of DJ’ing.\n\nSoundCloud: https://soundcloud.com/
+ melo-nade\nInstagram: https://www.instagram.com/nav_melo\nFacebook: https:
+ //www.facebook.com/Melo.Nade.Sound/\n\nProfile: https://thenectarfestival.
+ com/products/melo-nade
 END:VEVENT
 BEGIN:VEVENT
 UID:3274405d-cf98-4a5f-ac2a-7af7465b0112@nectar2026
@@ -457,13 +678,24 @@ DTSTART;TZID=America/Vancouver:20260622T063000
 DTEND;TZID=America/Vancouver:20260622T080800
 SUMMARY:Okiro
 LOCATION:Solstice Stage
-DESCRIPTION:Dubstep / garage / grime / R&B • West Coast\n\nGrowing up on
-  the West Coast of Canada\, Okiro was shaped by BC’s thriving festival 
- culture\, which sparked his passion for music from an early age. Blending
-  sub-heavy dubstep\, garage\, grime\, rap\, and R&B\, Okiro’s sound is 
- both an ode to the UK’s underground bass scene and a reflection of more
-  melodic influences.\n\nProfile: https://thenectarfestival.com/products/o
- kiro
+DESCRIPTION:Growing up on the West Coast of Canada\, Okiro was shaped by BC
+ ’s thriving festival culture\, which sparked his passion for music from 
+ an early age. Blending sub-heavy dubstep\, garage\, grime\, rap\, and R&B\
+ , Okiro’s sound is both an ode to the UK’s underground bass scene and 
+ a reflection of the more melodic influences of the West Coast. With a keen
+  ear for music and an instinct for the right sound at the right moment\, h
+ is sets move fluidly across BPMs and styles—always grounded in emotion\,
+  depth\, and sonic richness. Even in high-energy moments\, his selections 
+ carry a softer\, more melodic touch\, giving his sets a unique ebb and flo
+ w. With performances at world-renowned festivals like Shambhala & Bass Coa
+ st\, alongside countless local and international shows\, Okiro has built a
+  reputation for curating unforgettable experiences. Whether in an intimate
+  club or on a festival stage\, his selections create moments that resonate
+  far beyond the dancefloor.\n\nInstagram:\n\nFacebook:\n\nSoundCloud:\n\nb
+ andcamp:\n\nInstagram: https://www.instagram.com/__okiro__\nFacebook: http
+ s://www.facebook.com/okirosound\nSoundCloud: https://soundcloud.com/okiros
+ ound\nBandcamp: https://okiro.bandcamp.com\n\nProfile: https://thenectarfe
+ stival.com/products/okiro
 END:VEVENT
 BEGIN:VEVENT
 UID:c61254a4-6504-40b5-876d-05467ca8d52e@nectar2026
